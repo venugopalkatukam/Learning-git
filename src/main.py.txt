@@ -1,4 +1,13 @@
 print("hello world")
+<<<<<<< HEAD
 print("hihi")
 sksjnffsdknf
 dfjnsfj
+=======
+print
+dkjfkasfksdkff
+sdjflsdfksd
+sdfsdkflsd
+
+sdkflsdflsd
+>>>>>>> 00a361c31b8e3084462afe82d082031b7b36a9ea
